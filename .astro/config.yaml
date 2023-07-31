@@ -1,0 +1,8 @@
+project:
+  name: spdr_gold_spots
+
+postgres:
+  host: localhost
+  port: "5432"
+  user: postgres
+  password: root
